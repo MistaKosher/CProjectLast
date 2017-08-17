@@ -1,0 +1,6 @@
+c:\Projects\C-Projects\C#\tmp001\tmp001\bin\Debug\tmp001.exe.config
+c:\Projects\C-Projects\C#\tmp001\tmp001\bin\Debug\tmp001.exe
+c:\Projects\C-Projects\C#\tmp001\tmp001\bin\Debug\tmp001.pdb
+c:\Projects\C-Projects\C#\tmp001\tmp001\obj\Debug\tmp001.csprojResolveAssemblyReference.cache
+c:\Projects\C-Projects\C#\tmp001\tmp001\obj\Debug\tmp001.exe
+c:\Projects\C-Projects\C#\tmp001\tmp001\obj\Debug\tmp001.pdb
